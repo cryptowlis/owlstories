@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const Home: NextPage = () => {
   return (
-    <div>
+    <div className="flex min-h-screen flex-col items-center justify-center py-2">
       <h1> Paniyedukk Kummaa !!</h1>
     </div>
   );
