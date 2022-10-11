@@ -7,7 +7,7 @@ const Home: NextPage = () => {
     <div className="flex min-h-screen flex-col items-center justify-center py-2">
       <h1> Paniyedukk monne !!</h1>
     </div>
-  )
+  );
 }
 
 export default Home
